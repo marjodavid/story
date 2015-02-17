@@ -1,4 +1,4 @@
-0nce up0n a t1m3, 1n a s0ftwar3 c0mpany th3r3 was a lonely programmer.
+Once upon a time, in a software company there was a lonely programmer.
 His name is Bienvenido and he likes munching kamote.
  
  One day, He encountered a problem while managing his code's version control and 
