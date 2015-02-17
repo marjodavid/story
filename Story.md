@@ -1,5 +1,20 @@
+<<<<<<< HEAD
  Once upon a time, in a software company there was a lonely programmer.
 His name is Bienvenido and he likes drinking coffee.
  
  One day, He encountered a problem while managing his code's version control and 
 Bien lost his mind and decide to do drugs. But before things get worse, a Hero named Jays appeared behind Bien's loneliness. Jays introduced him to GIT, told him about what he learned in the training he attended in Makati.
+=======
+Once upon a time, in a software company there was a lonely programmer.
+His name is Bienvenido and he likes munching kamote.
+ 
+ One day, He encountered a problem while managing his code's version control and 
+Bien lost his mind and decide to do drugs. But before things get worse,
+ a Hero named Jays appeared behind Bien's loneliness and cheered Bien up. 
+
+ Bien was so happy, he decided to adopt a child. Days passed, Bien found four orphans named
+Christian, Erick, Lexuz, and Darwyne. One day, The orphans went to their ever reliable buddy, EJ, to go on a conquest to conquer Git.
+
+ 
+ During their conquest, they have found out that they were being watched by a giant eye towering behind the mountains to where they are heading
+>>>>>>> 4289ef374a0584e897d02b83e123f3a03e31081f
