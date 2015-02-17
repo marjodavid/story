@@ -9,4 +9,3 @@ Bien lost his mind and decide to do drugs. But before things get worse,
 Christian, Erick, Lexuz, and Darwyne. One day, The orphans went to their ever reliable buddy, EJ, to go on a conquest to conquer Git.
 
 *Light decrease dramatically until screen fades to black*
->>>>>>> fc1203f1b6bea23da6a0751411521b962f28ce4e
