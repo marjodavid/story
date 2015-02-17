@@ -9,4 +9,4 @@ Bien lost his mind and decide to do drugs. But before things get worse,
 Christian, Erick, Lexuz, and Darwyne. One day, The orphans went to their ever reliable buddy, EJ, to go on a conquest to conquer Git.
 
  
- During their conquest, they have found out that they were being watched
+ During their conquest, they have found out that they were being watched by a giant eye towering behind the mountains to where they are heading
