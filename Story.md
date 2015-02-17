@@ -8,4 +8,5 @@ Bien lost his mind and decide to do drugs. But before things get worse,
  Bien was so happy, he decided to adopt a child. Days passed, Bien found four orphans named
 Christian, Erick, Lexuz, and Darwyne. One day, The orphans went to their ever reliable buddy, EJ, to go on a conquest to conquer Git.
 
-*Light decrease dramatically until screen fades to black*
+ 
+ During their conquest, they have found out that they were being watched
