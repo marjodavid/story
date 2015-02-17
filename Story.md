@@ -1,4 +1,4 @@
- Once upon a time, in a software company there was a lonely programmer.
+Once upon a time, in a software company there was a lonely programmer.
 His name is Bienvenido and he likes drinking coffee while munching kamote.
  
  One day, He encountered a problem while managing his code's version control and 
@@ -6,4 +6,7 @@ Bien lost his mind and decide to do drugs. But before things get worse,
  a Hero named Jays appeared behind Bien's loneliness and cheered Bien up. 
 
  Bien was so happy, he decided to adopt a child. Days passed, Bien found four orphans named
-Christian, Erick, Lexuz, and Darwyne.
+Christian, Erick, Lexuz, and Darwyne. One day, The orphans went to their ever reliable buddy, EJ, to go on a conquest to conquer Git.
+
+*Light decrease dramatically until screen fades to black*
+>>>>>>> fc1203f1b6bea23da6a0751411521b962f28ce4e
